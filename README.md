@@ -1,5 +1,6 @@
 # BONUS: Riyadh Blog
 
+
 ## Learning Goals
 
 - Create an HTML structure for an existing mockup
